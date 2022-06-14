@@ -1,0 +1,25 @@
+.container {
+	display: flex;
+}
+
+.container div {
+	border: 1px solid black;
+}
+
+.rem {
+	background-color: aqua;
+	width: 50%;
+	height: 20rem;
+	margin: 1rem;
+	padding: 1rem;
+	font-size: 1rem;
+}
+
+.pixel {
+	background-color: beige;
+	width: 50%;
+	height: 320px;
+	margin: 16px;
+	padding: 16px;
+	font-size: 16px;
+}
